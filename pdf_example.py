@@ -14,6 +14,7 @@ import pytesseract
 # Using numpy instead of wand.image library 
 
 import numpy as np
+
 # Beloow is the old code
 	# from wand.image import Image as wi
 		# wand.image library is used to read and write images of various format
