@@ -1,6 +1,5 @@
 from PIL import Image
 import pytesseract
-#import numpy as np
 
 # Setting the Tesseract executable path
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\nkhan29\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
@@ -14,7 +13,17 @@ text = pytesseract.image_to_string(img1, lang='eng')  # Language set to English
 
 # Printing the extracted text
 print(text)
-if 'specific_keyword' in text:
-    # Do something when the specific keyword is found
-    print('Found the keyword!')
+
+# Function to check for a specific keyword
+def check_keyword(text, keyword):
+    return keyword in text
+
+# Define the specific keyword you want to find
+specific_keyword = 'example_keyword'
+
+# Checking for the specific keyword
+if check_keyword(text, specific_keyword):
+    print(f'Found the "{specific_keyword}" keyword!')
 else:
+    print(f'"{specific_keyword}" keyword not found.')
+
