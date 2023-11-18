@@ -26,6 +26,3 @@ if check_keyword(text, specific_keyword):
     print(f'Found the "{specific_keyword}" keyword!')
 else:
     print(f'"{specific_keyword}" keyword not found.')
-
-# Comment added to reflect an update
-# Improved readability and added a function for keyword checking
