@@ -13,9 +13,8 @@
 from PIL import Image
 import pytesseract
 
-# Using numpy instead of wand.image library 
-
 import numpy as np
+# Using numpy instead of wand.image library 
 
 # Beloow is the old code- using numpy instead for the image recognition 
 	# from wand.image import Image as wi
