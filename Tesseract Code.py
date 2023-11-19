@@ -1,3 +1,5 @@
+# We are using tesseract python and numpy packages for this program for OCR
+
 #import io
 # We are importing and calling a number of packages or libraries
 # Import tesseract (for python) - 'pip install pytesseract' in the terminal 
