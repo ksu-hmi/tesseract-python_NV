@@ -1,5 +1,3 @@
-ROAD MAP – Initial draft
-
 # Optical Character Recognition (OCR): Text Localization and Detection in Python OCR
 
 We have divided the road map for our project into three sprints. These sprints are consistent with the agile sprints of the project development outlined in the coures and project outline. 
