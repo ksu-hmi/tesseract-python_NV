@@ -15,8 +15,8 @@ We have divided the road map for our project into three sprints. These sprints a
 - [x] Actively evalaute the identified respository as well as serach for additional, relevnat ones to evalauate and learn from.
 
 # Sprint 2- Roadmap: 
-Start writing the code. There is expected to be active development of the code through the sprint. 
-Code should be relevant to the project objectives and all contributors should be actively working, improving and updating the code. 
+- [x] Start writing the code. There is expected to be active development of the code through the sprint. 
+- [x] Code should be relevant to the project objectives and all contributors should be actively working, improving and updating the code. 
 There should be intentional effort to use GitHub desktop so that commits and updates are visible. 
 Improve this initial tracking document, build any additional section, and use tools and techniques to track progress in a meaningful and visible manner.
 Improve, review and update codes, as necessary. 
