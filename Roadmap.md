@@ -9,7 +9,7 @@ We have divided the road map for our project into three sprints. These sprints a
 - [x] Explore the repositories and investigate source codes that may align well with the topic of interest.
 - [x] Discuss and evaluate the idea by open and frequent discussions with class fellow, professor, or colleagues to understand the context and objectives clearly.
 - [x] Recognize the importance of a secure environment (KSU) and plans to place the repository within KSU firewall. It is important not to have any repositories on personal drives and for the transparency and visibility to other team members, clients, and collaborators.
-- [x] Identify at least one source code and explore the code to learn and evaluate.  You can refer to this code to learn more about what we are planning to write and get help from any relevant resources.
+- [x] Identify at least one source code and explore the code to learn and evaluate. You can refer to this code to learn more about what we are planning to write and get help from any relevant resources.
 - [x] Actively evalaute the identified respository as well as serach for additional, relevnat ones to evalauate and learn from.
 
 # Sprint 2- Roadmap: 
