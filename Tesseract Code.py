@@ -22,8 +22,8 @@ import numpy as np
 		# wand.image library is used to read and write images of various format
 		# wand is also used to convert images from one form to anoother 
 
-	#pdf = wi(filename = "sample2.pdf", resolution = 300)
-	#pdfImage = pdf.convert('jpeg')
+	# pdf = wi(filename = "sample2.pdf", resolution = 300)
+	# pdfImage = pdf.convert('jpeg')
 
  	# imageBlobs = []
 
