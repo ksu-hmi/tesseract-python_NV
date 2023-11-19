@@ -1,6 +1,6 @@
 # Optical Character Recognition (OCR): Text Localization and Detection in Python OCR
 
-We have divided the road map for our project into three sprints. These sprints are consistent with the agile sprints of the project development outlined in the coures and project outline. 
+We have divided the road map for our project into three sprints. These sprints are consistent with the agile sprints of the project development outlined in the coures and project outline. We also updated the roadmap with any additional and retrospective changes. 
 
 # Sprint 1- Roadmap: 
 - [x] Conduct detailed research on the topics of interest and identify a topic that aligned with the course objectives as well as with personal/professional interests and motivations. 
