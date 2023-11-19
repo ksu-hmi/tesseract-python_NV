@@ -52,7 +52,9 @@ os.chdir('C:\\Users\\nkhan29\\Documents\\GitHub\\pythonteachingcode\\')
 # We downloaded the image and saved in the same directory as python VS code folder
 filename = '1_python-ocr.jpg' 
 # We are calling the input image to test Tesseract
+
 img1 = np.array(Image.open(filename)) 
+
 # Assigning a new function 
 
 # call tesseract form my loacl machine
