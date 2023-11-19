@@ -18,8 +18,9 @@ We have divided the road map for our project into three sprints. These sprints a
 - [x] Start evaluting the code more closely. There is expected to be active development of the code through the sprint.
 - [x] Code should be relevant to the project objectives and all contributors should be actively working, improving and updating the code.
 - [x] Evalaute and make changes to teh code where relevant. 
-There should be intentional effort to use GitHub desktop so that commits and updates are visible. 
-Improve this initial tracking document, build any additional section, and use tools and techniques to track progress in a meaningful and visible manner.
+- [x] There should be intentional effort to use GitHub desktop so that commits and updates are visible.
+- [ ] Make sunstantila changes or updates to the source code that demonstrates the undertsanding and knowldege for the OCR
+- [x] Improve this initial tracking document, build any additional section, and use tools and techniques to track progress in a meaningful and visible manner.
 Improve, review and update codes, as necessary. 
 Document and share progress, issues, and resolutions.
 Share and discuss with team members, classmates, and contributors. 
