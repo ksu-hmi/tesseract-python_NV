@@ -17,7 +17,7 @@ import pytesseract
 
 import numpy as np
 
-# Beloow is the old code
+# Beloow is the old code- using numpy instead for the image recognition 
 	# from wand.image import Image as wi
 		# wand.image library is used to read and write images of various format
 		# wand is also used to convert images from one form to anoother 
