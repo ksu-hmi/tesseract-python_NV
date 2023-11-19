@@ -57,13 +57,13 @@ img1 = np.array(Image.open(filename))
 
 # Assigning a new function 
 
-# call tesseract form my loacl machine
+# call tesseract from my loacl machine
 # Had issue/error messages with Tessercat import 
 # To resolve the issues, calling tesseractt via machine - by giving its path 
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Users\\nkhan29\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'
 
-#Assigning new function to read teh image we uploaded
+#Assigning new function to read the image we uploaded
 text = pytesseract.image_to_string(img1)
 
 #Printing the image
